@@ -1,1 +1,1 @@
-My fist repository
+A repo for 0x01-git
