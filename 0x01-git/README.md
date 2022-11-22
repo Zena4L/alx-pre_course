@@ -1,3 +1,3 @@
 This is just a readme
 
-fot alx
+it’s the only time you are allowed to update and commit from GitHub interface
